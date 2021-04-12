@@ -20,3 +20,4 @@ unsigned int count(const std::string& str) {
 //continues if no whitespace, counter is incremented
 // count function should go here
 
+//>>>>>>> master
